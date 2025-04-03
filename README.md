@@ -17,7 +17,10 @@ This project is a Network Firewall implemented using Flask (Python) on Kali Linu
 * Database: Supabase
 
 # 📸 Screenshots
-(Add images of the UI and firewall rule management screen here)
+![image alt](https://github.com/NaveenNickey/Network-Firewall/blob/3dcf84f216f84c62a539822cc25ab7d1e0b99cc2/Project_FrontEnd/Screenshot%202025-04-03%20104410.png)
+![image alt](https://github.com/NaveenNickey/Network-Firewall/blob/3dcf84f216f84c62a539822cc25ab7d1e0b99cc2/Project_FrontEnd/Screenshot%202025-04-03%20104427.png)
+![image alt](https://github.com/NaveenNickey/Network-Firewall/blob/3dcf84f216f84c62a539822cc25ab7d1e0b99cc2/Project_FrontEnd/Screenshot%202025-04-03%20104447.png)
+![image alt](https://github.com/NaveenNickey/Network-Firewall/blob/3dcf84f216f84c62a539822cc25ab7d1e0b99cc2/Project_FrontEnd/Screenshot%202025-04-03%20104456.png)
 
 # 🛡️ Security Considerations
 * Ensure the firewall rules are correctly configured to prevent unintended access.
